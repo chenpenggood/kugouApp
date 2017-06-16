@@ -9,7 +9,6 @@ vuejs仿写酷狗音乐webapp
 主要技术栈：
  - vuejs2.0
  - vue-router
- - vuex
  - vue-resource
  - mint-ui
 
