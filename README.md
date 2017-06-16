@@ -1,4 +1,4 @@
- FOLLOW A KUGOU
+KUGOU
 ----------------
 
 vuejs仿写酷狗音乐webapp
